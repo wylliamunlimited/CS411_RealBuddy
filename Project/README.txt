@@ -8,3 +8,8 @@ To get the skeleton running, open a terminal and do the following:
 
 	6. back to the terminal, run the app 'python -m flask run' (or use python3)
 	7. open your browser, and open the local website 'localhost:5000'
+
+
+	// ----
+
+	Adding test code
